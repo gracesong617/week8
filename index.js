@@ -35,6 +35,8 @@ server.listen(PORT, () => {
   console.log("server on port ",PORT);
 })
 
+process.env.API-KEY
+
 //1
 //setting up an http server
 //setting up socket.io
